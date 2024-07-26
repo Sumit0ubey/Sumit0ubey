@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit0ubey
 - 👀 I’m interested in DS, ML, AI, Web development, Cybersecurity, Embedded programming, Tech
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Data science and Analysis
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 Reach me on "sumit.dubey20317@gmail.com"
 - 😄 Pronouns: He/Him 
