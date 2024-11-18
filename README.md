@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 Reach me on "sumit.dubey20317@gmail.com"
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Data is more important than money 💰 
+- ⚡ Fun fact: Data is Everywhere 
 
 <!---
 Sumit0ubey/Sumit0ubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
