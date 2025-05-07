@@ -4,7 +4,7 @@ A categorized list of all my development projects, including Android, web, API, 
 
 ## 📱 Android Apps
 
-### 1.🎵 iMusicPlayer
+#### 1. 🎵 iMusicPlayer
 A sleek and lightweight Android music player app with playlist management and support for various audio formats.
 
 🔗 [View on GitHub](https://github.com/Sumit0ubey/iMusicPlayer)
@@ -16,7 +16,7 @@ A sleek and lightweight Android music player app with playlist management and su
 ---
 ## 🔌 API Projects
 
-### 📦 PostAPI
+#### 1. 📦 PostAPI
 A RESTful API built using FastAPI and PostgreSQL. It provides endpoints for creating, reading, updating, and deleting (CRUD) posts.
 
 🔗 [View on GitHub](https://github.com/Sumit0ubey/PostAPP)
