@@ -21,6 +21,7 @@ POST-WebApp built using Django. It provides UI for creating, reading, updating, 
 RIVORA is a powerful web app built with Django, merging the community-driven features of Discord with the content-focused layout of YouTube.
 
 🔗 [View on GitHub](https://github.com/Sumit0ubey/RIVORA-WebApp)
+
 ---
 ## 🔌 API Projects
 
