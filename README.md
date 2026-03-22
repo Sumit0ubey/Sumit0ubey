@@ -75,7 +75,7 @@ Profile sumit = new Profile(
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,django,fastapi,spring,flask,tailwind,bootstrap,postgresql,mysql,mongodb,redis,docker,kubernetes,aws,heroku,firebase,git,github,githubactions,linux,postman,vscode" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
@@ -86,7 +86,7 @@ Profile sumit = new Profile(
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
