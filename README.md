@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1A1026,30:6D28D9,70:DB2777,100:1A1026&text=SUMIT%20DUBEY&fontSize=62&fontColor=FCE7F3&fontAlignY=38&desc=BACKEND%20DEVELOPER%20•%20SOFTWARE%20ENGINEERING%20•%20AI%20%2F%20ML%20%2F%20DATA&descSize=18&descAlignY=57&descColor=F9A8D4&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=960&lines=Building+Scalable+Backend+and+Software+Solutions;Backend+Engineering+%7C+AI+%7C+ML+%7C+Data+Science;FastAPI+%7C+Django+%7C+Java+%7C+Kotlin+%7C+Cloud" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=960&lines=Building+Scalable+Backend+and+Software+Solutions;Backend+Engineering+%7C+Cloud+%7C+AI+%7C+ML+%7C+Data+Science;FastAPI+%7C+Django+%7C+Spring+%7C+Python+%7C+Java+%7C+Kotlin" alt="typing" />
 
 <br/>
 
@@ -61,7 +61,7 @@ Profile sumit = new Profile(
 <a href="https://dubeysumit.me/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-DB2777?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
 <a href="mailto:talktosumitdubey@outlook.com"><img src="https://img.shields.io/badge/Email-talktosumitdubey%40outlook.com-C026D3?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF" /></a>
 
-<br/><br/>
+<br/>
 
 <b>Open to internships, backend roles, and AI/ML collaborations.</b>
 
@@ -98,8 +98,8 @@ Profile sumit = new Profile(
 
 ## 💼 Recruiter Snapshot
 
-- **Role fit:** Backend Developer / Software Engineering Intern (AI-ML-Data capable)
-- **Core strengths:** API development, system design, real-time architectures, and data-driven product development
+- **Role fit:** Backend Developer / Software Engineering (AI-ML-Data capable)
+- **Core strengths:** Backend & API development, system design, real-time architectures, and data-driven product development
 - **Work style:** Fast learner, product mindset, clean implementation, and collaboration-friendly
 - **Portfolio proof:** Pinned repositories already demonstrate end-to-end execution across backend, software, and AI projects
 
@@ -140,7 +140,8 @@ Profile sumit = new Profile(
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit0ubey&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub trophies" loading="lazy" />
+<img src="https://img.shields.io/github/followers/Sumit0ubey?style=for-the-badge&color=DB2777&labelColor=1A1026&logo=github&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Sumit0ubey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED&labelColor=1A1026&logo=github&label=Total%20Stars" alt="Total repository stars" />
 
 </div>
 
@@ -170,7 +171,7 @@ Internships • Collaborations • Open Source • Freelance Projects • Tech N
 <a href="mailto:talktosumitdubey@outlook.com"><img src="https://img.shields.io/badge/Drop%20an-Email-DB2777?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 <a href="https://github.com/Sumit0ubey"><img src="https://img.shields.io/badge/Follow%20on-GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
-<br/><br/>
+<br/>
 
 <blockquote>
     <b>"Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."</b><br/>
