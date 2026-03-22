@@ -73,7 +73,16 @@ Profile sumit = new Profile(
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,django,fastapi,spring,flask,postgresql,mysql,mongodb,redis,docker,kubernetes,aws,heroku,firebase,git,github,githubactions,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,django,fastapi,spring,flask,tailwind,bootstrap,postgresql,mysql,mongodb,redis,docker,kubernetes,aws,heroku,firebase,git,github,githubactions,linux,postman,vscode" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 </div>
 
@@ -83,14 +92,15 @@ Profile sumit = new Profile(
 
 <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20Spring-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Software-Java%20%7C%20Python%20%7C%20Kotlin-DB2777?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%20Frameworks-Bootstrap%20%7C%20Tailwind%20CSS-A21CAF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20%26%20Data-ML%20%7C%20Pandas%20%7C%20TensorFlow%20%7C%20PyTorch-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Redis-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Cassandra-9333EA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20GitHub%20Actions-C026D3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20Heroku%20%7C%20Firebase-E11D48?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BaaS%20%26%20APIs-Appwrite%20%7C%20REST%20APIs-B5179E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20Heroku%20%7C%20DigitalOcean%20%7C%20Firebase-E11D48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BaaS%20%26%20APIs-Appwrite%20%7C%20Cloudinary%20%7C%20REST%20APIs-B5179E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Analytics-Power%20BI%20%7C%20Data%20Visualization-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Design-Photoshop%20%7C%20UI%20Assets-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tools-Postman%20%7C%20VS%20Code%20%7C%20Git-D946EF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tools-Postman%20%7C%20Git%20%7C%20Linux%20%7C%20Android%20Studio-D946EF?style=for-the-badge" />
 
 </div>
 
