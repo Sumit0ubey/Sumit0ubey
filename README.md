@@ -17,6 +17,14 @@
 
 ---
 
+## 📂 Portfolio Guide
+
+<div align="center">
+
+<a href="APP_Lists.md"><img src="https://img.shields.io/badge/View-Full%20Project%20Portfolio-7C3AED?style=for-the-badge&logo=readme&logoColor=FFFFFF" /></a>
+
+</div>
+
 ## ✨ About Me
 
 ```java
@@ -68,7 +76,6 @@ Profile sumit = new Profile(
 </div>
 
 ---
-
 ## 🧠 Tech Stack
 
 <div align="center">

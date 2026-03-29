@@ -11,6 +11,12 @@
 
 <br/>
 
+![Focus](https://img.shields.io/badge/Focus-Scalable%20Products-7C3AED?style=flat-square&labelColor=1A1026)
+![Quality](https://img.shields.io/badge/Code%20Quality-Production%20Grade-EC4899?style=flat-square&labelColor=1A1026)
+![Delivery](https://img.shields.io/badge/Delivery-End%20to%20End-DB2777?style=flat-square&labelColor=1A1026)
+
+<br/>
+
 [![📊 25+ Projects](https://img.shields.io/badge/📊_25%2B-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey?tab=repositories)
 [![💻 Full Stack Developer](https://img.shields.io/badge/💻_Full%20Stack-Developer-EC4899?style=for-the-badge&logo=code&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
 [![🔓 Open Source](https://img.shields.io/badge/🔓_Open%20Source-Contributor-DB2777?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
@@ -19,6 +25,14 @@
 <br/>
 
 **✨ Enterprise APIs | Rich Interfaces | Native Apps | ML Solutions | Production Ready ✨**
+
+<br/>
+
+**Quick Navigation:**
+[![Backend](https://img.shields.io/badge/Backend%20%26%20API-View-7C3AED?style=flat-square&logo=fastapi&logoColor=white)](#-backend--api-development)
+[![Web Apps](https://img.shields.io/badge/Full%20Stack-Web-EC4899?style=flat-square&logo=django&logoColor=white)](#-full-stack-web-applications)
+[![Mobile](https://img.shields.io/badge/Mobile-Android-DB2777?style=flat-square&logo=android&logoColor=white)](#-mobile-applications)
+[![AI/ML](https://img.shields.io/badge/AI%2FML-Projects-A21CAF?style=flat-square&logo=tensorflow&logoColor=white)](#-ai-ml--data-science)
 
 </div>
 
@@ -816,29 +830,33 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 # 🛠️ Technology Ecosystem
 ## Comprehensive Tech Stack & Tools
 
+<br/>
+
+![Core Stack](https://img.shields.io/badge/Core%20Stack-Production%20Ready-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=1A1026)
+
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🗄️ Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Deployment & DevOps
-![Docker](https://img.shields.io/badge/Docker-Latest-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-Platform-430098?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -898,17 +916,25 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 <td width="50%" align="center">
 
 ### ⭐ Most Popular
-🥇 **Nova** - AI Assistant App
-🥈 **Pinggo** - Real-time Chat
+🥇 **Nova** - AI Assistant App<br/>
+🥈 **Pinggo** - Real-time Chat<br/>
 🥉 **VisuoLink** - Cross-Platform Gesture Ecosystem
+
+<br/>
+
+![Popular](https://img.shields.io/badge/Signal-High%20Community%20Interest-F59E0B?style=flat-square&labelColor=1A1026)
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 Most Active
-🚀 **Pinggo** - Real-time Chat Platform
-🎯 **MailAPIX** - Production Email API
+🚀 **Pinggo** - Real-time Chat Platform<br/>
+🎯 **MailAPIX** - Production Email API<br/>
 💻 **TorchAI** - AI Multi-Tool Mobile App
+
+<br/>
+
+![Active](https://img.shields.io/badge/Signal-Continuous%20Development-10B981?style=flat-square&labelColor=1A1026)
 
 </td>
 </tr>
@@ -923,13 +949,27 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 # 🌟 Let's Collaborate!
 ## Join a Passionate Developer's Journey
 
-Interested in any of these projects? Feel free to:
+Interested in any of these projects? Let’s build something impactful together.
 
-⭐ **Star** repositories you find useful  
-🍴 **Fork** projects for your own use  
-💬 **Discuss** ideas and improvements  
-🤝 **Contribute** with pull requests & feedback  
-📧 **Contact** for collaboration opportunities
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+[![Star Repos](https://img.shields.io/badge/⭐%20Star-Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey?tab=repositories)
+
+</td>
+<td align="center" width="33%">
+
+[![Open PRs](https://img.shields.io/badge/🤝%20Contribute-Pull%20Requests-EC4899?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
+
+</td>
+<td align="center" width="33%">
+
+[![Contact Me](https://img.shields.io/badge/📧%20Contact-Collaborate-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1026)](mailto:talktosumitdubey@outlook.com)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
