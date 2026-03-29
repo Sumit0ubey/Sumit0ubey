@@ -127,31 +127,31 @@ Profile sumit = new Profile(
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit0ubey&theme=radical" width="95%" />
+<a href="https://github.com/Sumit0ubey"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumit0ubey&theme=radical" width="95%" alt="Profile Summary" loading="lazy" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit0ubey&show_icons=true&rank_icon=github&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0ubey&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css" width="40%" />
+<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sumit0ubey&show_icons=true&rank_icon=github&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" loading="lazy" /></a>
+<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0ubey&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css" width="40%" alt="Top Languages" loading="lazy" /></a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sumit0ubey&theme=radical&hide_border=true" width="62%" alt="GitHub streak stats" loading="lazy" />
+<a href="https://github.com/Sumit0ubey"><img src="https://streak-stats.demolab.com?user=Sumit0ubey&theme=radical&hide_border=true" width="62%" alt="GitHub Streak Stats" loading="lazy" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit0ubey&bg_color=141321&color=FE428E&line=F8D847&point=A9FEF7&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution activity graph" loading="lazy" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit0ubey&bg_color=141321&color=FE428E&line=F8D847&point=A9FEF7&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Activity Graph" loading="lazy" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit0ubey&theme=radical" width="32%" alt="Repositories per language" loading="lazy" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit0ubey&theme=radical" width="32%" alt="Most commit language" loading="lazy" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumit0ubey&theme=radical&utcOffset=5.5" width="32%" alt="Productive time" loading="lazy" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit0ubey&theme=radical" width="32%" alt="Repositories per Language" loading="lazy" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit0ubey&theme=radical" width="32%" alt="Most Commit Language" loading="lazy" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumit0ubey&theme=radical&utcOffset=5.5" width="32%" alt="Productive Hours" loading="lazy" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Sumit0ubey?style=for-the-badge&color=DB2777&labelColor=1A1026&logo=github&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Sumit0ubey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED&labelColor=1A1026&logo=github&label=Total%20Stars" alt="Total repository stars" />
+<img src="https://img.shields.io/github/followers/Sumit0ubey?style=for-the-badge&color=DB2777&labelColor=1A1026&logo=github&label=Followers" alt="GitHub Followers" loading="lazy" />
+<img src="https://img.shields.io/github/stars/Sumit0ubey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED&labelColor=1A1026&logo=github&label=Total%20Stars" loading="lazy" />
 
 </div>
 
