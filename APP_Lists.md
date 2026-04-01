@@ -52,7 +52,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 </div>
 
 ```python
-🚀 FastAPI • Python 3.11 • SMTP TLS • PostgreSQL 15
+🚀 FastAPI • Python • SMTP TLS • PostgreSQL
 ```
 
 > Lightweight, production-grade email service with HTML templates and secure SMTP integration.
@@ -83,7 +83,9 @@
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -93,7 +95,7 @@
 </div>
 
 ```java
-🏢 Spring Boot 3.2 • Java 17 • JPA Hibernate • PostgreSQL 15
+🏢 Spring Boot • Java • JPA Hibernate • PostgreSQL
 ```
 
 > Enterprise REST API with advanced categorization, relationships, and multi-tier deployment strategy.
@@ -116,7 +118,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -126,7 +128,7 @@
 </div>
 
 ```python
-⚡ FastAPI • Python 3.11 • SQLAlchemy ORM • PostgreSQL • Async
+⚡ FastAPI • Python • SQLAlchemy ORM • PostgreSQL • Async
 ```
 
 > Advanced CRUD operations with async processing, JWT authentication, and production-ready configuration.
@@ -147,7 +149,9 @@
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -157,7 +161,7 @@
 </div>
 
 ```python
-🚀 FastAPI • Python 3.11 • Full-Text Search • PostgreSQL • Async
+🚀 FastAPI • Python • Full-Text Search • PostgreSQL • Async
 ```
 
 > High-performance RESTful API for content management with async operations and optimized queries.
@@ -197,7 +201,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -228,7 +232,9 @@
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -261,7 +267,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -292,7 +298,9 @@
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -359,7 +367,7 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -390,7 +398,9 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -423,7 +433,7 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -454,7 +464,9 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -562,7 +574,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -593,7 +605,9 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -603,7 +617,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-📊 Python 3.11 • Scikit-learn • TensorFlow • Jupyter
+📊 Python • Scikit-learn • TensorFlow • Jupyter
 ```
 
 > Comprehensive ML projects covering supervised, unsupervised, and deep learning techniques.
@@ -626,7 +640,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -676,7 +690,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -686,7 +700,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-🔀 Python 3.11 • Data Structures • Algorithms • Big-O
+🔀 Python • Data Structures • Algorithms • Big-O
 ```
 
 > Comprehensive DSA implementations with explanations and complexity analysis.
@@ -707,7 +721,9 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -717,7 +733,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-🐍 Python 3.11 • Multi-Domain • Practical Projects
+🐍 Python • Multi-Domain • Practical Projects
 ```
 
 > Collection of diverse Python projects covering web, automation, and machine learning.
@@ -740,7 +756,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 <div align="center">
 
@@ -750,7 +766,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```excel
-🎓 Excel • Power Query • DAX • VBA • Pivot Tables
+🎓 Excel • Power_Query • DAX • VBA • Pivot Tables
 ```
 
 > Advanced Excel guide with formulas, data analysis, and automation techniques.
@@ -771,7 +787,9 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 <div align="center">
 
@@ -873,28 +891,34 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td width="100%" align="center">
 
 ### 📥 Download & Deploy
 [![Mobile APKs](https://img.shields.io/badge/Download-Mobile%20APKs-7C3AED?style=for-the-badge&logo=android&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey?tab=repositories&q=releases)
 [![Deployed Apps](https://img.shields.io/badge/Live-Web%20Apps-EC4899?style=for-the-badge&logo=globe&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey?tab=repositories)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="100%" align="center">
 
 ### 📚 Documentation
 [![GitHub Repos](https://img.shields.io/badge/Clone-Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
 [![Setup Guides](https://img.shields.io/badge/Read-Docs%20%26%20Guides-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="100%" align="center">
 
 ### 🤝 Connect & Follow
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1026)](https://www.linkedin.com/in/sumit-dubey-8762802a1)
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="100%" align="center">
 
 ### 💌 Get In Touch
 [![Email](https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1026)](mailto:talktosumitdubey@outlook.com)
@@ -913,7 +937,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ### ⭐ Most Popular
 🥇 **Nova** - AI Assistant App<br/>
@@ -925,7 +949,9 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 ![Popular](https://img.shields.io/badge/Signal-High%20Community%20Interest-F59E0B?style=flat-square&labelColor=1A1026)
 
 </td>
-<td width="50%" align="center">
+</tr>
+<tr>
+<td width="100%" align="center">
 
 ### 🔥 Most Active
 🚀 **Pinggo** - Real-time Chat Platform<br/>
@@ -953,17 +979,21 @@ Interested in any of these projects? Let’s build something impactful together.
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="100%">
 
 [![Star Repos](https://img.shields.io/badge/⭐%20Star-Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey?tab=repositories)
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="100%">
 
 [![Open PRs](https://img.shields.io/badge/🤝%20Contribute-Pull%20Requests-EC4899?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1026)](https://github.com/Sumit0ubey)
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="100%">
 
 [![Contact Me](https://img.shields.io/badge/📧%20Contact-Collaborate-DB2777?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1026)](mailto:talktosumitdubey@outlook.com)
 

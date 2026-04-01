@@ -138,8 +138,8 @@ Profile sumit = new Profile(
 
 <br/><br/>
 
-<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sumit0ubey&show_icons=true&rank_icon=github&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" loading="lazy" /></a>
-<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit0ubey&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,css" width="40%" alt="Top Languages" loading="lazy" /></a>
+<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumit0ubey&theme=radical" width="48%" alt="GitHub Stats" loading="lazy" /></a>
+<a href="https://github.com/Sumit0ubey?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit0ubey&theme=radical" width="40%" alt="Top Languages" loading="lazy" /></a>
 
 <br/><br/>
 
