@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,EC4899,DB2777,A21CAF&height=220&section=header&text=📦%20Professional%20Portfolio&fontSize=60&fontColor=FCE7F3&desc=25%2B%20Production%20Projects%20%7C%20Full%20Stack%20Development&descSize=18&descColor=F9A8D4&animation=fadeIn" width="100%"/>
 
@@ -437,7 +437,7 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-### 🔥 TorchAI
+### 🔥 TorvixAI
 ![Type](https://img.shields.io/badge/Type-🎯_Multi--Tool-yellow?style=flat) ![Quality](https://img.shields.io/badge/Quality-⭐⭐⭐⭐-gold?style=flat)
 
 </div>
@@ -459,7 +459,7 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/TorchAI)** • **[📥 Download APK](https://github.com/Sumit0ubey/TorchAI/releases)** • **[👥 Contributing](https://github.com/Sumit0ubey/TorchAI#contributing)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/TorvixAI)** • **[📥 Download APK](https://github.com/Sumit0ubey/TorvixAI/releases)** • **[👥 Contributing](https://github.com/Sumit0ubey/TorvixAI#contributing)**
 
 </div>
 
@@ -536,6 +536,8 @@ Python • Kivy (Desktop) • Java/Kotlin (Android) • FastAPI (Backend) • ML
 | **🧠 ML** | TensorFlow ML Kit | Real-time gesture detection & classification models |
 | **🌐 Web** | GitHub Pages | Project documentation & demo site |
 
+<div align="left">
+
 **⚡ Key Features:**
 - ✅ Real-time gesture detection across platforms
 - ✅ Cross-platform desktop application
@@ -545,12 +547,14 @@ Python • Kivy (Desktop) • Java/Kotlin (Android) • FastAPI (Backend) • ML
 - ✅ Touch-free interaction system
 - ✅ Production-ready architecture
 
+</div>
+
 **📚 Separate Organization:**
-Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://github.com/visuolink?tab=repositories) for specialized project management
+Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://github.com/orgs/Visu0Link/repositories) for specialized project management
 
 <div align="center">
 
-**[🔗 Main Repo](https://github.com/Sumit0ubey/VisuoLink)** • **[🌐 VisuoLink Org](https://github.com/visuolink?tab=repositories)** • **[🔬 Research Paper](https://github.com/Sumit0ubey/VisuoLink/blob/main/RESEARCH.md)** • **[🎥 Demo Video](https://github.com/Sumit0ubey/VisuoLink#demo)** • **[📖 Documentation](https://github.com/visuolink)**
+**[🔗 Main Repo](https://github.com/Sumit0ubey/VisuoLink)** • **[🌐 VisuoLink Org](https://github.com/visu0link?tab=repositories)** • **[📖 Documentation](https://github.com/visu0link)**
 
 </div>
 
@@ -584,7 +588,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```jsx
-✨ React 18 • TypeScript • Tailwind CSS • Vite
+✨ React • TypeScript • Tailwind CSS • Vite
 ```
 
 > Visual AI coding environment with drag-and-drop canvas and multi-AI model integration.
@@ -600,7 +604,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/AetherStudio)** • **[🌐 Try Now](https://aetherstudio.vercel.app)** • **[⚙️ Dev Setup](https://github.com/Sumit0ubey/AetherStudio#installation)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/AetherStudio)** • **[🌐 Try Now](https://dubeysumit.me/AetherStudio)** • **[⚙️ Dev Setup](https://github.com/Sumit0ubey/AetherStudio#installation)**
 
 </div>
 
@@ -956,7 +960,7 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 ### 🔥 Most Active
 🚀 **Pinggo** - Real-time Chat Platform<br/>
 🎯 **MailAPIX** - Production Email API<br/>
-💻 **TorchAI** - AI Multi-Tool Mobile App
+💻 **TorvixAI** - AI Multi-Tool Mobile App
 
 <br/>
 
