@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,EC4899,DB2777,A21CAF&height=220&section=header&text=📦%20Professional%20Portfolio&fontSize=60&fontColor=FCE7F3&desc=25%2B%20Production%20Projects%20%7C%20Full%20Stack%20Development&descSize=18&descColor=F9A8D4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,EC4899,DB2777,A21CAF&height=220&section=header&text=📦%20Professional%20Portfolio&fontSize=60&fontColor=FCE7F3&desc=25%2B%20Production%20Projects%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=64&descColor=F9A8D4&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -62,7 +62,8 @@
 </div>
 
 ```python
-🚀 FastAPI • Python • SMTP TLS • PostgreSQL
+🚀 FastAPI • Python
+SMTP TLS • PostgreSQL
 ```
 
 > Lightweight, production-grade email service with HTML templates and secure SMTP integration.
@@ -78,7 +79,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/MailAPIX)** • **[🌐 Live Demo](https://mailapix.onrender.com)** • **[📖 API Docs](https://mailapix.onrender.com/docs)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/MailAPIX)** • **[🌐 Live Demo](https://mailapix.onrender.com)**<br/>
+**[📖 API Docs](https://mailapix.onrender.com/docs)**
 
 </div>
 
@@ -95,7 +97,8 @@
 </div>
 
 ```java
-🏢 Spring Boot • Java • JPA Hibernate • PostgreSQL
+🏢 Spring Boot • Java
+JPA Hibernate • PostgreSQL
 ```
 
 > Enterprise REST API with advanced categorization, relationships, and multi-tier deployment strategy.
@@ -111,7 +114,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/GlossaryAPI)** • **[🌐 Live Demo](https://glossaryapi.onrender.com)** • **[📖 Swagger UI](https://glossaryapi.onrender.com/swagger-ui.html)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/GlossaryAPI)** • **[🌐 Live Demo](https://glossaryapi.onrender.com)**<br/>
+**[📖 Swagger UI](https://glossaryapi.onrender.com/swagger-ui.html)**
 
 </div>
 
@@ -128,7 +132,8 @@
 </div>
 
 ```python
-⚡ FastAPI • Python • SQLAlchemy ORM • PostgreSQL • Async
+⚡ FastAPI • Python • SQLAlchemy ORM
+PostgreSQL • Async
 ```
 
 > Advanced CRUD operations with async processing, JWT authentication, and production-ready configuration.
@@ -144,7 +149,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/API_Development)** • **[🌐 Live Demo](https://api-development-8dwa.onrender.com)** • **[📖 API Docs](https://api-development-8dwa.onrender.com/docs)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/API_Development)** • **[🌐 Live Demo](https://api-development-8dwa.onrender.com)**<br/>
+**[📖 API Docs](https://api-development-8dwa.onrender.com/docs)**
 
 </div>
 
@@ -161,7 +167,8 @@
 </div>
 
 ```python
-🚀 FastAPI • Python • Full-Text Search • PostgreSQL • Async
+🚀 FastAPI • Python • Full-Text Search
+PostgreSQL • Async
 ```
 
 > High-performance RESTful API for content management with async operations and optimized queries.
@@ -177,7 +184,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/PostAPP)** • **[🌐 Live Demo](https://postapp-api.herokuapp.com)** • **[📖 Interactive Docs](https://postapp-api.herokuapp.com/docs)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/PostAPP)** • **[🌐 Live Demo](https://postapp-api.herokuapp.com)**<br/>
+**[📖 Interactive Docs](https://postapp-api.herokuapp.com/docs)**
 
 </div>
 
@@ -211,7 +219,8 @@
 </div>
 
 ```django
-💬 Django • WebSocket • Redis • PostgreSQL • HTML5/CSS3
+💬 Django • WebSocket • Redis
+PostgreSQL • HTML5/CSS3
 ```
 
 > Real-time messaging platform with global, group, and private chat channels powered by WebSocket.
@@ -227,7 +236,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Pinggo)** • **[🌐 Visit App](https://pinggo.example.com)** • **[📖 Setup Guide](https://github.com/Sumit0ubey/Pinggo#setup)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Pinggo)** • **[🌐 Visit App](https://pinggo.example.com)**<br/>
+**[📖 Setup Guide](https://github.com/Sumit0ubey/Pinggo#setup)**
 
 </div>
 
@@ -244,7 +254,8 @@
 </div>
 
 ```django
-🏘️ Django • PostgreSQL • Bootstrap • Media CDN
+🏘️ Django • PostgreSQL
+Bootstrap • Media CDN
 ```
 
 > Community platform combining Discord-style channels with YouTube-style content management.
@@ -260,7 +271,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/RIVORA)** • **[🌐 Visit App](https://rivora.pythonanywhere.com)** • **[📖 Installation](https://github.com/Sumit0ubey/RIVORA#installation)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/RIVORA)** • **[🌐 Visit App](https://rivora.pythonanywhere.com)**<br/>
+**[📖 Installation](https://github.com/Sumit0ubey/RIVORA#installation)**
 
 </div>
 
@@ -277,7 +289,8 @@
 </div>
 
 ```django
-🛠️ Django • PostgreSQL • Bootstrap 5 • Responsive
+🛠️ Django • PostgreSQL
+Bootstrap 5 • Responsive
 ```
 
 > Developer portfolio platform for showcasing projects with customizable templates and themes.
@@ -293,7 +306,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Buildfolio)** • **[🍴 Fork Project](https://github.com/Sumit0ubey/Buildfolio/fork)** • **[📖 Documentation](https://github.com/Sumit0ubey/Buildfolio#readme)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Buildfolio)** • **[🍴 Fork Project](https://github.com/Sumit0ubey/Buildfolio/fork)**<br/>
+**[📖 Documentation](https://github.com/Sumit0ubey/Buildfolio#readme)**
 
 </div>
 
@@ -310,7 +324,8 @@
 </div>
 
 ```django
-📮 Django • Bootstrap 5 • SQLite • JavaScript ES6
+📮 Django • Bootstrap 5
+SQLite • JavaScript ES6
 ```
 
 > Full-featured post management application with user-friendly UI and comprehensive CRUD operations.
@@ -326,7 +341,8 @@
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/POST-WebApp)** • **[🌐 Preview](https://post-webapp.onrender.com)** • **[⚙️ Setup](https://github.com/Sumit0ubey/POST-WebApp#quick-start)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/POST-WebApp)** • **[🌐 Preview](https://post-webapp.onrender.com)**<br/>
+**[⚙️ Setup](https://github.com/Sumit0ubey/POST-WebApp#quick-start)**
 
 </div>
 
@@ -338,14 +354,16 @@
 ### 🌐 Portfolio Website
 
 ```
-HTML5 • CSS3 • JavaScript • Responsive Design
+HTML5 • CSS3
+JavaScript • Responsive Design
 ```
 
 Personal portfolio website showcasing skills, projects, and professional experience with smooth animations.
 
 **⚡ Features:** Fully Responsive • Smooth Animations • Contact Form • Projects Showcase • Mobile Optimized
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Portfolio)** • **[🌍 Visit Portfolio](https://dubeysumit.me)** • **[🍴 Use as Template](https://github.com/Sumit0ubey/Portfolio/fork)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Portfolio)** • **[🌍 Visit Portfolio](https://dubeysumit.me)**<br/>
+**[🍴 Use as Template](https://github.com/Sumit0ubey/Portfolio/fork)**
 
 </td>
 </tr>
@@ -377,7 +395,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 ```kotlin
-🔧 Kotlin • Jetpack Compose • Appwrite • Cloudinary • Material Design
+🔧 Kotlin • Jetpack Compose • Appwrite
+Cloudinary • Material Design
 ```
 
 > Service marketplace connecting providers with customers for nearby job requests in real-time.
@@ -393,7 +412,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/BlueCollar)** • **[📥 Download APK](https://github.com/Sumit0ubey/BlueCollar/releases)** • **[🏗️ Build Guide](https://github.com/Sumit0ubey/BlueCollar#building)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/BlueCollar)** • **[📥 Download APK](https://github.com/Sumit0ubey/BlueCollar/releases)**<br/>
+**[🏗️ Build Guide](https://github.com/Sumit0ubey/BlueCollar#building)**
 
 </div>
 
@@ -410,7 +430,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 ```kotlin
-🤖 Kotlin • ML Kit • Google AI • Text-to-Speech • On-Device
+🤖 Kotlin • ML Kit • Google AI
+Text-to-Speech • On-Device
 ```
 
 > Advanced AI assistant with voice commands and chat capabilities using on-device neural models.
@@ -426,7 +447,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Nova)** • **[📥 Download APK](https://github.com/Sumit0ubey/Nova/releases)** • **[⚙️ Setup](https://github.com/Sumit0ubey/Nova#setup)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Nova)** • **[📥 Download APK](https://github.com/Sumit0ubey/Nova/releases)**<br/>
+**[⚙️ Setup](https://github.com/Sumit0ubey/Nova#setup)**
 
 </div>
 
@@ -443,7 +465,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 ```kotlin
-🔥 Kotlin • ML Kit • Google Translate • Gesture • Multi-Language
+🔥 Kotlin • ML Kit • Google Translate
+Gesture • Multi-Language
 ```
 
 > Multi-purpose app combining AI chat, voice assistance, and real-time translation in one.
@@ -459,7 +482,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/TorvixAI)** • **[📥 Download APK](https://github.com/Sumit0ubey/TorvixAI/releases)** • **[👥 Contributing](https://github.com/Sumit0ubey/TorvixAI#contributing)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/TorvixAI)** • **[📥 Download APK](https://github.com/Sumit0ubey/TorvixAI/releases)**<br/>
+**[👥 Contributing](https://github.com/Sumit0ubey/TorvixAI#contributing)**
 
 </div>
 
@@ -476,7 +500,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 </div>
 
 ```java
-🎵 Java • Android APIs • Media Framework • Material Design
+🎵 Java • Android APIs
+Media Framework • Material Design
 ```
 
 > Lightweight, sleek music player with advanced playlist management and format support.
@@ -492,7 +517,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/iMusicPlayer)** • **[📥 Download APK](https://github.com/Sumit0ubey/iMusicPlayer/releases)** • **[🏗️ Build Steps](https://github.com/Sumit0ubey/iMusicPlayer#building-from-source)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/iMusicPlayer)** • **[📥 Download APK](https://github.com/Sumit0ubey/iMusicPlayer/releases)**<br/>
+**[🏗️ Build Steps](https://github.com/Sumit0ubey/iMusicPlayer#building-from-source)**
 
 </div>
 
@@ -521,7 +547,8 @@ Personal portfolio website showcasing skills, projects, and professional experie
 ### 🖐️ VisuoLink - Complete Ecosystem
 
 ```
-Python • Kivy (Desktop) • Java/Kotlin (Android) • FastAPI (Backend) • ML Kit (Vision)
+Python • Kivy (Desktop) • Java/Kotlin (Android)
+FastAPI (Backend) • ML Kit (Vision)
 ```
 
 **Revolutionary gesture recognition system** enabling touch-free interaction across multiple platforms. A comprehensive project spanning desktop application, backend APIs, Android mobile app, and machine learning models.
@@ -588,7 +615,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```jsx
-✨ React • TypeScript • Tailwind CSS • Vite
+✨ React • TypeScript
+Tailwind CSS • Vite
 ```
 
 > Visual AI coding environment with drag-and-drop canvas and multi-AI model integration.
@@ -604,7 +632,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/AetherStudio)** • **[🌐 Try Now](https://dubeysumit.me/AetherStudio)** • **[⚙️ Dev Setup](https://github.com/Sumit0ubey/AetherStudio#installation)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/AetherStudio)** • **[🌐 Try Now](https://dubeysumit.me/AetherStudio)**<br/>
+**[⚙️ Dev Setup](https://github.com/Sumit0ubey/AetherStudio#installation)**
 
 </div>
 
@@ -621,7 +650,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-📊 Python • Scikit-learn • TensorFlow • Jupyter
+📊 Python • Scikit-learn
+TensorFlow • Jupyter
 ```
 
 > Comprehensive ML projects covering supervised, unsupervised, and deep learning techniques.
@@ -637,7 +667,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Machine_learning)** • **[📓 Notebooks](https://github.com/Sumit0ubey/Machine_learning/tree/main/notebooks)** • **[📥 Datasets](https://github.com/Sumit0ubey/Machine_learning/tree/main/data)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Machine_learning)** • **[📓 Notebooks](https://github.com/Sumit0ubey/Machine_learning/tree/main/notebooks)**<br/>
+**[📥 Datasets](https://github.com/Sumit0ubey/Machine_learning/tree/main/data)**
 
 </div>
 
@@ -654,7 +685,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```sql
-📈 Python • SQL • Power BI • Tableau • Data Modeling
+📈 Python • SQL • Power BI
+Tableau • Data Modeling
 ```
 
 > Data analysis bootcamp project with real-world datasets and interactive dashboards.
@@ -670,7 +702,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp)** • **[📊 Dashboards](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp/tree/main/dashboards)** • **[📖 Complete Guide](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp#getting-started)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp)** • **[📊 Dashboards](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp/tree/main/dashboards)**<br/>
+**[📖 Complete Guide](https://github.com/Sumit0ubey/Data_Analysis_Bootcamp#getting-started)**
 
 </div>
 
@@ -704,7 +737,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-🔀 Python • Data Structures • Algorithms • Big-O
+🔀 Python • Data Structures
+Algorithms • Big-O
 ```
 
 > Comprehensive DSA implementations with explanations and complexity analysis.
@@ -720,7 +754,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/DSA)** • **[📖 Learning Path](https://github.com/Sumit0ubey/DSA#learning-path)** • **[✅ 100+ Problems](https://github.com/Sumit0ubey/DSA/tree/main/problems)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/DSA)** • **[📖 Learning Path](https://github.com/Sumit0ubey/DSA#learning-path)**<br/>
+**[✅ 100+ Problems](https://github.com/Sumit0ubey/DSA/tree/main/problems)**
 
 </div>
 
@@ -737,7 +772,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-🐍 Python • Multi-Domain • Practical Projects
+🐍 Python • Multi-Domain
+Practical Projects
 ```
 
 > Collection of diverse Python projects covering web, automation, and machine learning.
@@ -753,7 +789,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/PythonProjects)** • **[📂 Browse Projects](https://github.com/Sumit0ubey/PythonProjects#projects)** • **[📚 Tutorials](https://github.com/Sumit0ubey/PythonProjects/wiki)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/PythonProjects)** • **[📂 Browse Projects](https://github.com/Sumit0ubey/PythonProjects#projects)**<br/>
+**[📚 Tutorials](https://github.com/Sumit0ubey/PythonProjects/wiki)**
 
 </div>
 
@@ -770,7 +807,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```excel
-🎓 Excel • Power_Query • DAX • VBA • Pivot Tables
+🎓 Excel • Power_Query • DAX
+VBA • Pivot Tables
 ```
 
 > Advanced Excel guide with formulas, data analysis, and automation techniques.
@@ -786,7 +824,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Excel_BootCamp)** • **[📊 Download Files](https://github.com/Sumit0ubey/Excel_BootCamp/tree/main/files)** • **[📖 Complete Guide](https://github.com/Sumit0ubey/Excel_BootCamp#index)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Excel_BootCamp)** • **[📊 Download Files](https://github.com/Sumit0ubey/Excel_BootCamp/tree/main/files)**<br/>
+**[📖 Complete Guide](https://github.com/Sumit0ubey/Excel_BootCamp#index)**
 
 </div>
 
@@ -803,7 +842,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 </div>
 
 ```python
-📋 Python • Data Analysis • Backend • Professional
+📋 Python • Data Analysis
+Backend • Professional
 ```
 
 > Portfolio of real-world internship projects and professional experience documentation.
@@ -819,7 +859,8 @@ Created standalone **VisuoLink organization** on GitHub: [@visuolink](https://gi
 
 <div align="center">
 
-**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Internship)** • **[📄 Resume](https://github.com/Sumit0ubey/resume)** • **[💼 Work History](https://github.com/Sumit0ubey/Internship#work-experience)**
+**[🔗 GitHub Repo](https://github.com/Sumit0ubey/Internship)** • **[📄 Resume](https://github.com/Sumit0ubey/resume)**<br/>
+**[💼 Work History](https://github.com/Sumit0ubey/Internship#work-experience)**
 
 </div>
 
